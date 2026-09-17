@@ -9,6 +9,7 @@ I chose to simulate this in ChatGPT/Claude rather than build an actual voice bot
 Conversation design and prompt logic are the reusable, transferable skill — not the voice/API integration layer
 Testing against personas (cooperative, disputing, distressed) lets me deliberately create edge cases a real early-stage system would face, without needing real customer data
 This mirrors exactly how a CS Analyst would actually work day-to-day: writing/refining prompts and flows, not building infrastructure
+
 Tools Needed
 ChatGPT and/or Claude (for roleplay testing and prompt iteration)
 A text editor / Markdown (for documenting the flow and prompts)
